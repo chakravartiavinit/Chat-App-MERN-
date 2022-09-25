@@ -1,7 +1,7 @@
 
 # Simul-chat
 
-Simu-chat is a Full Stack Chatting App.
+Simul-chat is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -12,6 +12,6 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 **Database:** Mongo DB
   
 ## Made By
-** CHAKRAVARTI AVINIT**
+**CHAKRAVARTI AVINIT**
 
   
